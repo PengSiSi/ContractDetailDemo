@@ -1,0 +1,22 @@
+[
+ "basic":
+           {
+ "num": "HSJG",
+ "name": "草坪采购合同",
+ "flag": "甲方",
+ "companyName": "北京花艺天堂花卉公司",
+ "person": "思思",
+ "tel": "15300087655",
+ "myPerson": "乌镇",
+ "startTime": "2017-03-31",
+ "endTime": "2017-03-31",
+ "signTime": "2017-03-31",
+ "pages": "4",
+ "sumPrice": "530",
+ "status": "开始",
+ "content": "内容内容内容内容内容内容内容内容内容内容内容内容",
+ "remark": "合同"
+    },
+ "detail":{},
+ "result": {}
+ ]
