@@ -115,6 +115,7 @@
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
     
+    // 暂时SDAutoLayout的约束行高没有实现
 //     return [self cellHeightForIndexPath:indexPath cellContentViewWidth:[UIScreen mainScreen].bounds.size.width tableView:tableView];
 //      return [self.tableView cellHeightForIndexPath:indexPath model:self.dataArray[indexPath.row] keyPath:@"model" cellClass:[TableViewCell class] contentViewWidth:K_SCREEN_WIDTH];
     // 丹丹自适应行高
